@@ -1,9 +1,9 @@
 # ROS1_MORAI_SLAM_study
 
-## 개요
+## 소개
 - MORAI simulator의 Scout mini 모델을 활용한 slam, navigation을 공부하면서 작성하였습니다.
 - lidar sensor을 활용해 맵을 만들고, navigation package를 통해 목표한 지점까지 Global path planning을 통해 스스로 이동할 수 있도록 구현하였습니다.
-#### [개발 환경]
+#### [환경]
 |목록|VERSION|
 |:--|:--:|
 |Ubuntu|18.04.6 LTS (Bionic Beaver)| 
